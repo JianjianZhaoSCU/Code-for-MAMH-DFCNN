@@ -1,5 +1,5 @@
 # MAMH-DFCNN： a multiple attentions based multi-level hybrid-guided deep fuzzy convolutional neural network
-# Thank you very much for your interests in our work!
+# Thank you very much for your interest in our work!
 # -----------------------------------------------------------------
 # This repository opens the code for our model:
 # a multiple attentions based multi-level hybrid-guided 
