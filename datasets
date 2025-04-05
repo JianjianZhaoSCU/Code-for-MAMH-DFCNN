@@ -1,16 +1,16 @@
-Due to the file size upload limitations of the GitHub code repository, 
-the datasets used for the experiments can be accessed as follows.
-------------------------------------------------------------------
-MNIST: https://www.kaggle.com/datasets
-Fashion-MNIST: https://www.kaggle.com/datasets
-Flower-17: https://www.robots.ox.ac.uk/~vgg/data/flowers/17/
-Caltech101: https://data.caltech.edu/records/mzrjq-6wc02
-Corel5K: https://github.com/watersink/Corel5K
-Cifar-100: https://www.cs.toronto.edu/~kriz/cifar.html
-Coil-100: https://www.kaggle.com/datasets
-ORL: https://paperswithcode.com
-UMIST: https://paperswithcode.com
-USPS: https://paperswithcode.com
-SVHN: http://ufldl.stanford.edu/housenumbers/
-Tiny-ImageNet: https://paperswithcode.com
-------------------------------------------------------------------
+# Due to the file size upload limitations of the GitHub code repository, 
+# the datasets used for the experiments can be accessed as follows.
+# ------------------------------------------------------------------
+# MNIST: https://www.kaggle.com/datasets
+# Fashion-MNIST: https://www.kaggle.com/datasets
+# Flower-17: https://www.robots.ox.ac.uk/~vgg/data/flowers/17/
+# Caltech101: https://data.caltech.edu/records/mzrjq-6wc02
+# Corel5K: https://github.com/watersink/Corel5K
+# Cifar-100: https://www.cs.toronto.edu/~kriz/cifar.html
+# Coil-100: https://www.kaggle.com/datasets
+# ORL: https://paperswithcode.com
+# UMIST: https://paperswithcode.com
+# USPS: https://paperswithcode.com
+# SVHN: http://ufldl.stanford.edu/housenumbers/
+# Tiny-ImageNet: https://paperswithcode.com
+# ------------------------------------------------------------------
