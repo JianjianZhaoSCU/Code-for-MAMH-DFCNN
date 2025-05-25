@@ -5,3 +5,5 @@
 # a multiple attentions based multi-level hybrid-guided 
 # deep fuzzy convolutional neural network (MAMH-DFCNN). 
 # -----------------------------------------------------------------
+# This work is described in: https://ieeexplore.ieee.org/abstract/document/11012685
+# Please cite this paper if this code helps.
